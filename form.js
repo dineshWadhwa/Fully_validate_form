@@ -85,5 +85,6 @@ function btnd() {
   } else {
     document.getElementById("boxcheck").checked = false;
     alert("Fill Correct information")
+    console.log("test")
   }
 }
